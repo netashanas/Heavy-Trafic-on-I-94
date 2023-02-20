@@ -4,7 +4,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-# Reading the file with pandas
+# Reading the file with pandas package
 i94_df = pd.read_csv('Metro_Interstate_Traffic_Volume.csv')
 # Examining the first and the last five rows
 print(i94_df.head(5))
