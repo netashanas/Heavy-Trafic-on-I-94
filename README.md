@@ -1,1 +1,1 @@
-# Heavy-Trafic-on-I-94
+# Heavy Trafic on I-94
